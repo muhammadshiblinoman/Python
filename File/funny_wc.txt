@@ -1,0 +1,4 @@
+word count: 6Teacher: Why are you late, Frank?
+word count: 5Frank: Because of the sign.
+word count: 3Teacher: What sign?
+word count: 9Frank: The one that says "School Ahead, Go slow".
