@@ -1,6 +1,6 @@
 import math
 import calendar
-import newFunction as f
+import newFunction
 
 print(math.sqrt(99))
 print(math.pow(8, 6))
